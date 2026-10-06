@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0268-missing-number) |
+| [0706-design-hashmap](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0706-design-hashmap) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0141-linked-list-cycle) |
+| [0706-design-hashmap](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0283-move-zeroes) |
+| [0706-design-hashmap](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0706-design-hashmap) |
 | [1480-running-sum-of-1d-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1929-concatenation-of-array) |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0856-score-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
