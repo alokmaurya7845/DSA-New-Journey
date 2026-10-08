@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0268-missing-number) |
 | [0706-design-hashmap](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0706-design-hashmap) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0856-score-of-parentheses) |
 ## Number Theory
