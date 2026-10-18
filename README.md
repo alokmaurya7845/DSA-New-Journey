@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0283-move-zeroes) |
+| [0962-maximum-width-ramp](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0962-maximum-width-ramp) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0283-move-zeroes) |
 | [0706-design-hashmap](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0706-design-hashmap) |
+| [0962-maximum-width-ramp](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0962-maximum-width-ramp) |
 | [1480-running-sum-of-1d-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1929-concatenation-of-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0856-score-of-parentheses) |
+| [0962-maximum-width-ramp](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0962-maximum-width-ramp) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0219-contains-duplicate-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
