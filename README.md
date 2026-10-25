@@ -184,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0962-maximum-width-ramp) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
