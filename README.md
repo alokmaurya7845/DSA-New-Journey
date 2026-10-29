@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/0400-nth-digit) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/alokmaurya7845/https-github.com-alokmaurya7845-DSA-New-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
